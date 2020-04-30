@@ -1,0 +1,14 @@
+.gallery a img{
+	height: 270px;
+	width: 240px;
+	position: relative;
+	top: 0;
+	left: 170px;
+	right: 0;
+	bottom: 0;
+}
+
+.gallery a img{
+	align-content: center;
+	text-align: center;
+}
